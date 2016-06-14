@@ -15,14 +15,14 @@ What characters denote optional parts of a command?
 Show the characters and give their name.
 
 ```md
-<!-- replace this comment with your answer -->
+[] brackets indicate an optional part of a command.
 ```
 
 What characters indicate a possibly repeating element in a command?
 Show the characters and give their name.
 
 ```md
-<!-- replace this comment with your answer -->
+... dots
 ```
 
 ## Creating or removing a database
@@ -30,13 +30,13 @@ Show the characters and give their name.
 What shell command would you execute to create a database named `mydb`?
 
 ```sh
-# replace this comment with your answer
+createdb mydb
 ```
 
 What shell command would you execute to remove a database named `mydb`?
 
 ```sh
-# replace this comment with your answer
+dropdb mydb
 ```
 
 ## Creating or removing a table
